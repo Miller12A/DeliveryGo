@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690039921107",
+    "project_id": "deliverygo-54162",
+    "storage_bucket": "deliverygo-54162.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690039921107:android:aa6fd4aaf451098f173726",
+        "android_client_info": {
+          "package_name": "com.optic.deliverygo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFvi3ofOaSrqyIpZQdJfigc9hCUQJQ06Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
